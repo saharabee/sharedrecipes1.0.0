@@ -1,0 +1,29 @@
+{
+  "name": "sharedrecipes1.0.0",
+  "version": "1.0.0",
+  "description": "Shared Recipes Project - WEB-7215",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsada/sharedrecipes1.0.0.git"
+  },
+  "author": "Alberto Botero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salsada/sharedrecipes1.0.0/issues"
+  },
+  "homepage": "https://github.com/salsada/sharedrecipes1.0.0#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5",
+    "morgan": "^1.8.1",
+    "pug": "^2.0.0-beta11",
+    "stylus": "^0.54.5"
+  }
+}
